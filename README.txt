@@ -19,3 +19,9 @@ https://higuma.github.io/web-audio-recorder-js/
 // Media Player
 http://kolber.github.io/audiojs/
 https://osvaldas.info/audio-player-responsive-and-touch-friendly
+
+
+// s3 clients
+https://www.npmjs.com/package/knox
+https://www.npmjs.com/package/s3
+
